@@ -3,7 +3,7 @@
 ## 📋 Sobre o Projeto
 MVP (Minimum Viable Product) desenvolvido para a disciplina de **Controle Estatístico de Processos**. Implementa sistema de Cartas de Controle para análise de qualidade em manufatura. O conjunto de dados analisado apresenta informações sobre 500 peças produzidas por cada um dos 20 operadores de uma indústria em um determinado período. Cada operador possui uma formação e um nível de treinamento distintos, o que permite observar diferenças nas dimensões das peças fabricadas. As variáveis analisadas incluem o número identificador da peça (Item_No), comprimento (Length), largura (Width), altura (Height) e o operador responsável pela produção (Operator).
 
-## 🔗 Links do Projeto
+## 🔗 Links
 - [**🔗 Google Colab - Código Executável**](https://colab.research.google.com/drive/12DMlvTqrunXDUG2UsAU9j05BKaPaX51L#scrollTo=GJ778wAvgaU3)
 - [**📊 Dataset Original: "Parts Manufacturing - Industry Dataset"**](https://www.kaggle.com/datasets/gabrielsantello/parts-manufacturing-industry-dataset)
 
